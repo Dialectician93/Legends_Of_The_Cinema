@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dialectician93/Legends_Of_The_Cinema.git/static/css/main.cc5393ec.css",
+    "main.js": "/Dialectician93/Legends_Of_The_Cinema.git/static/js/main.5224a592.js",
+    "static/media/cinema-logo.avif": "/Dialectician93/Legends_Of_The_Cinema.git/static/media/cinema-logo.99ad8242a7968a5a2b4f.avif",
+    "index.html": "/Dialectician93/Legends_Of_The_Cinema.git/index.html",
+    "main.cc5393ec.css.map": "/Dialectician93/Legends_Of_The_Cinema.git/static/css/main.cc5393ec.css.map",
+    "main.5224a592.js.map": "/Dialectician93/Legends_Of_The_Cinema.git/static/js/main.5224a592.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc5393ec.css",
+    "static/js/main.5224a592.js"
+  ]
+}
